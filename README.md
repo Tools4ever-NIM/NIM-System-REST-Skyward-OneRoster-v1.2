@@ -1,4 +1,7 @@
 # Skyward OneRoster v1.2
+
+Read the [OneRoster v1.2 integration documentation](https://docs.nimsuite.com/en/integrations/oneroster-v1-2) for connector details and related guides.
+
 <img src="https://www.tools4ever.nl/connector-logos/skywardqmlativ-logo.png" width="256px" />
 
 ## Data Tables
